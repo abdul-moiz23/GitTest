@@ -7,6 +7,7 @@ namespace GitTest
         static void Main()
         {
             Console.WriteLine("first push");
+            Console.WriteLine("first commit");
         }
     }
 }
