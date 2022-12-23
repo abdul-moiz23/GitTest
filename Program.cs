@@ -13,6 +13,7 @@ namespace GitTest
             Console.WriteLine("second branch added");
             Console.WriteLine("check branch diff");
             Console.WriteLine("shabaz");
+            change1
         }
     }
 }
