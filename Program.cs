@@ -9,6 +9,7 @@ namespace GitTest
             Console.WriteLine("first push");
             Console.WriteLine("first commit");
             Console.WriteLine("second commit");
+            Console.WriteLine("new branch added");
         }
     }
 }
