@@ -11,6 +11,7 @@ namespace GitTest
             Console.WriteLine("second commit");
             Console.WriteLine("new branch added");
             Console.WriteLine("second branch added");
+            Console.WriteLine("check branch diff");
         }
     }
 }
